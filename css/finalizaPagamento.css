@@ -1,0 +1,41 @@
+.total {
+    margin-left: 25px;
+    float: left;
+}
+.total-preco {
+    margin-right: 25px; 
+    float: right;
+}
+#azul-escuro-legenda {
+    text-decoration: none;
+    color: #193E59;
+}
+
+.form-pagamento {
+    /* width: 700px; */
+    margin-left: 50px;
+    padding: 20px;
+}
+.botoes {
+    float: right;
+}
+.dados-pagamento {
+    font-size: 18px;
+    border: none;
+    background: #ccc;
+    width: 400px;
+    /* height: 92.1vh; */
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 150px; 
+    margin-top: -50px;
+}
+.produtos {
+    margin-left: 25px;
+    float: left;
+}
+.preco {
+    margin-right: 25px;
+    float: right;
+} 

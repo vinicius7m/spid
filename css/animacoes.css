@@ -1,0 +1,4 @@
+#animar:hover{
+	transform: scale(1.0);
+	transition: linear 0.2s;
+}

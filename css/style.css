@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav,html {
+    scroll-behavior: smooth;
+}
+
+input {
+    display: block;
+    outline: none;
+}
+#preto {
+    background-color: #1c1c1c;
+}
+.banner {
+    width: 100%;
+    height: 93vh;
+    /* background: #343A40; */
+    
+}
+
+.banner-empresa {
+    width: 100%;
+    height: 1000px;
+    
+}
+
+#corpo-form {
+    background-color: white;
+    /* top: 200px; */
+    padding: 20px;
+    width: 450px;
+    border-radius: 5px;
+    margin-top: 10vh;
+    margin-right: 10vw;
+    float: right;
+    
+}
+#corpo-form h2 {
+    text-align: center;
+}
+#corpo-form a {
+    text-decoration: none;
+    display: block;
+    color: #555;
+}
+#corpo-form a:hover {
+    text-decoration: underline;
+}
+label {
+    cursor: pointer;
+}
+
+.conteudo-cent {
+    height: 2vh;
+    background-color: #000000;
+    text-align: center;
+}
+#menu a:onClick {
+    background-color: #1e272e;
+}
+
+#azul-escuro {
+    background-color: #193e59;
+    color: #ffffff;
+    opacity: 1.0;
+}
+#azul-escuro:hover {
+    opacity: 1.1;
+    transition: ease-in-out 0.3s opacity;
+}
+
+#espaco {
+    margin-bottom: 8px;
+    
+}
+#espaco-e {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+#alinha-texto-centro {
+    text-align: center;
+    font-family: 'Open Sans','Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+#alinha-texto-esquerdo {
+    text-align: left;
+    font-family: 'Open Sans','Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+#cinza {
+    background-color: #1c1c1c;
+    color: #dedede;
+}
+#cinza-escuro {
+    /* border-top: 1px solid black; */
+    background-color: #191919;
+}
+
+.footer {
+    width: 100%;
+    border:1px solid black;
+    position: absolute;
+    bottom: 0px;
+    
+}
+
+#titulo-empresa {
+    margin-left: 60vw;
+    padding-top: 8vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+#poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+#titulo {
+    color: #fff;
+    font-size: 200px;
+    font-weight: 500;
+}
+
+#descricao {
+    margin-top: 10px;
+    color: #fff;
+    font-size: 33px;
+}
+
+#titulo-janela {
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+#cinza{
+    background-color: #090909;
+    color: #f1f1f1;
+}
+
+#cinza-escuro{
+    background-color: #000000;
+}
+
+
+
+#icon {
+    color: #ababab;
+    margin-right: 10px;
+    text-decoration: none;
+    list-style: none;
+}
+
+#cinza-legenda {
+    color: #ababab;
+    text-decoration: none;
+}
+
+#titulo-principal {
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 100px;
+    padding-top: 190px;
+    color: #fff;
+    text-decoration: none;
+}
+#principal-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 28px;
+}
+#titulo-produto {
+    font-size: 50px;
+}
+#banner-sec {
+    width: 100%;
+    height: 60vh;
+    background: #1c1c1c;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+#titulo-sec-esq {
+    margin-left: 100px;
+    padding-top: 150px;
+    color: #ddd;
+}
+
+#titulo-sec-dir {
+    float: right;
+    margin-right: 120px;
+    color: #ddd;
+}
+#espaco-es {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #191919;
+    letter-spacing: 3px;
+}
